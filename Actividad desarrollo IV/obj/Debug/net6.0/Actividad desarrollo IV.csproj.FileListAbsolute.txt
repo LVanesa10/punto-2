@@ -1,0 +1,15 @@
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\bin\Debug\net6.0\Actividad desarrollo IV.exe
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\bin\Debug\net6.0\Actividad desarrollo IV.deps.json
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\bin\Debug\net6.0\Actividad desarrollo IV.runtimeconfig.json
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\bin\Debug\net6.0\Actividad desarrollo IV.dll
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\bin\Debug\net6.0\Actividad desarrollo IV.pdb
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.csproj.AssemblyReference.cache
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.AssemblyInfoInputs.cache
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.AssemblyInfo.cs
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.csproj.CoreCompileInputs.cache
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.dll
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\refint\Actividad desarrollo IV.dll
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.pdb
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\Actividad desarrollo IV.genruntimeconfig.cache
+C:\Users\alfao\OneDrive\Escritorio\Actividad desarrollo IV\obj\Debug\net6.0\ref\Actividad desarrollo IV.dll
